@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/activity_main_menu_informacion"
+        android:icon="@drawable/ic_info_24dp"
+        android:title="@string/informacion"/>
+    <item
+        android:id="@+id/activity_main_menu_cupones"
+        android:icon="@drawable/ic_receipt_24dp"
+        android:title="@string/cupones"/>
+    <item
+        android:id="@+id/activity_main_menu_about_msp"
+        android:icon="@drawable/ic_business_24dp"
+        android:title="@string/about_msp"/>
+</menu>
